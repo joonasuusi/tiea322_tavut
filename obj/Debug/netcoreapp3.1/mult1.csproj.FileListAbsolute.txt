@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.exe
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.deps.json
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.runtimeconfig.json
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.dll
+C:\Users\Joonas\source\repos\tiea322\mult1\bin\Debug\netcoreapp3.1\mult1.pdb
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.dll
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.pdb
+C:\Users\Joonas\source\repos\tiea322\mult1\obj\Debug\netcoreapp3.1\mult1.genruntimeconfig.cache
